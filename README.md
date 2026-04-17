@@ -16,7 +16,7 @@ The system works by:
 5.  Updating both the feeds and the homepage automatically using GitHub
     Actions.
 
-The main site is https://mauvera94.github.io/mau-rss/
+The main site is https://mau-vera.github.io/mau-rss/
 
 ------------------------------------------------------------------------
 
@@ -116,7 +116,7 @@ It:
 
 The main page:
 
-https://mauvera94.github.io/mau-rss/
+https://mau-vera.github.io/mau-rss/
 
 ------------------------------------------------------------------------
 
